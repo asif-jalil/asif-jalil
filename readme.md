@@ -1,5 +1,5 @@
 # Hi 👋, I'm [Asif Jalil](https://asifjalil.netlify.app/)
-### A passionate frontend developer
+## A Passionate Frontend Developer
 
 <br/>
 
