@@ -3,11 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asif-jalil&label=Profile%20views&color=0e75b6&style=flat" alt="asif-jalil" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asif-jalil" alt="asif-jalil" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/asifjalil0" target="blank"><img src="https://img.shields.io/twitter/follow/asifjalil0?logo=twitter&style=for-the-badge" alt="asifjalil0" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/asifjalil0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asifjalil0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/asifjalil0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asifjalil0" height="30" width="40" /></a>
 <a href="https://fb.com/asif.jalil55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asif.jalil55" height="30" width="40" /></a>
+<a href="https://medium.com/@asifjalil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asifjalil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,3 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asif-jalil&show_icons=true&locale=en" alt="asif-jalil" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asif-jalil&" alt="asif-jalil" /></p>
