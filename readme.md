@@ -30,10 +30,10 @@
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>](https://git-scm.com)  
 [<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/>](https://heroku.com)  
 [<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/>](https://www.chartjs.org)  
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="30" height="30"/>](https://code.visualstudio.com)  
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="30" height="30"/>](https://code.visualstudio.com)
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>](https://www.figma.com)  
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/>](https://www.photoshop.com/en)  
-[<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/>](https://www.adobe.com/products/xd.html)  
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/>](https://www.photoshop.com/en)
+[<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/>](https://www.adobe.com/products/xd.html)
 
 
 <br/>
