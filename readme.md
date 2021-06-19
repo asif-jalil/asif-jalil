@@ -43,6 +43,3 @@
 
 
 [![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asif-jalil&count_private=true&show_icons=true)](https://github.com/asif-jalil)
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asif-jalil&" alt="asif-jalil" /></p>
