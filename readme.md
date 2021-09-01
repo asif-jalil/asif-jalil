@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Technext Limited](https://technext.it/)
 - 💫 I’m currently working at [VoicePro LLC](https://voiceprollc.com/)
-- ⭐ All info In one place [My Portfolio](https://asifjalil.netlify.app/)
+- ⭐ All info & Project In one place [My Portfolio](https://asifjalil.netlify.app/)
 - 🌱 I’m currently learning **everything i need**
 
 ### Connect with me
