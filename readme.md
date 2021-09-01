@@ -23,19 +23,17 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="30"/> ](https://getbootstrap.com/) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="30"/> ](https://reactjs.org) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="30"/> ](https://redux.js.org) 
-[<img src="https://camo.githubusercontent.com/bf32d0a71c170dbdb203c201579564f2cd7fc54a24720faad61af12c9605c6b5/68747470733a2f2f7265616374747261696e696e672e636f6d2f72656163742d726f757465722f616e64726f69642d6368726f6d652d313434783134342e706e67" alt="react router" width="40" height="30"/> ](https://reactrouter.com/) 
+[<img src="https://asifjalil.netlify.app/static/media/react-router.ffe0bad9.svg" alt="react router" width="30" height="30"/> ](https://reactrouter.com/) 
 [<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="30"/> ](https://nodejs.org) 
 [<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="30"/> ](https://expressjs.com) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="30"/> ](https://www.mongodb.com) 
+[<img src="https://asifjalil.netlify.app/static/media/pug.a72ea68b.svg" alt="pug" width="40" height="30"/> ](https://pugjs.org/) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="30"/> ](https://sass-lang.com) 
 [<img src="https://material-ui.com/static/logo_raw.svg" alt="Material UI" width="40" height="30"/> ](https://material-ui.com/) 
 [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="30"/>](https://tailwindcss.com) 
-
-
-
-
-
-
+[<img src="https://asifjalil.netlify.app/static/media/webpack.4e74b03a.svg" alt="webpack" width="40" height="30"/>](https://webpack.js.org/) 
+[<img src="https://asifjalil.netlify.app/static/media/gulp.bf812025.svg" alt="gulp" width="30" height="40"/>](https://gulpjs.com/) 
+[<img src="https://asifjalil.netlify.app/static/media/babel.2a65b28e.svg" alt="tailwind" width="40" height="30"/>](https://babeljs.io/) 
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="30"/> ](https://firebase.google.com) 
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/> ](https://git-scm.com) 
 [<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="30"/> ](https://www.netlify.com/) 
@@ -43,7 +41,7 @@
 [<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="30"/> ](https://www.chartjs.org) 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="30"/> ](https://code.visualstudio.com) 
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="30"/> ](https://www.figma.com) 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="30"/> ](https://www.photoshop.com/en) 
+[<img src="https://asifjalil.netlify.app/static/media/adobe-photoshop.3c5835d6.svg" alt="photoshop" width="40" height="30"/> ](https://www.photoshop.com/en) 
 [<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="30"/> ](https://www.adobe.com/products/xd.html)
 
 
