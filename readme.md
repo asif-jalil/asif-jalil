@@ -19,16 +19,23 @@
 ### Languages and Tools:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="30"/> ](https://www.w3.org/html) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="30"/> ](https://www.w3schools.com/css) 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="30"/> ](https://sass-lang.com) 
-[<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="30"/>](https://tailwindcss.com) 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="30"/> ](https://getbootstrap.com/) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/> ](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="30"/> ](https://getbootstrap.com/) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="30"/> ](https://reactjs.org) 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="30"/> ](https://redux.js.org)
-[<img src="https://material-ui.com/static/logo_raw.svg" alt="Material UI" width="40" height="30"/> ](https://material-ui.com/) 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="30"/> ](https://redux.js.org) 
+[<img src="https://raw.githubusercontent.com/asif-jalil/portfolio-client/master/src/assets/image/skill/react-router.svg" alt="react router" width="40" height="30"/> ](https://reactrouter.com/) 
 [<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="30"/> ](https://nodejs.org) 
 [<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="30"/> ](https://expressjs.com) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="30"/> ](https://www.mongodb.com) 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="30"/> ](https://sass-lang.com) 
+[<img src="https://material-ui.com/static/logo_raw.svg" alt="Material UI" width="40" height="30"/> ](https://material-ui.com/) 
+[<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="30"/>](https://tailwindcss.com) 
+
+
+
+
+
+
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="30"/> ](https://firebase.google.com) 
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/> ](https://git-scm.com) 
 [<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="30"/> ](https://www.netlify.com/) 
