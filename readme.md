@@ -2,7 +2,7 @@
 
 <br/>
 
-- 🔭 I’m currently working at [Technext Limited](https://technext.it/)
+- 🔭 I’m currently working at [Adventure Dhaka Limited](https://www.linkedin.com/company/adventuredhaka/)
 - ⭐ All info & Project In one place [My Portfolio](https://asifjalil.netlify.app/)
 - 🌱 I’m currently learning **everything i need**
 
